@@ -109,3 +109,14 @@ Merges changes from one branch into the current branch.
 ---
 
 ✅ **End of Notes** – Keep practicing and happy coding!
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sania-khalid&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sania-khalid&theme=default" alt="GitHub Streak" />
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sania-khalid" alt="Visitor Badge" />
+</p>
+
